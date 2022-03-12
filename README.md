@@ -8,5 +8,5 @@ This repository hosts the **lab projects** of the Neural Networks course held by
 
 - Lab 2: Unsupervised Learning
 
-- Lab 3: Deep Learning
+- Lab 3: Deep Learning - Image Captioning with Visual Attention
 
